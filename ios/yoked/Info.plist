@@ -34,7 +34,7 @@
 	<key>FacebookAppID</key>
 	<string>000000000000000000</string>
 	<key>FacebookDisplayName</key>
-	<string>YokedIn</string>
+	<string>NAME_OF_APP_HERE</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
